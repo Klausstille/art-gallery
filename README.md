@@ -14,23 +14,3 @@ You can then use the following commands:
 -   `npm run test` to run the tests in watch mode (if available)
 
 > 💡 This project requires a bundler. You can use `npm run dev` to start the development server. You can then view the project in the browser at `http://localhost:3000`. The Live Preview Extension for Visual Studio Code will **not** work for this project.
-
-### 🖥️ Desktop
-
-#### Home
-
-<img src="./public/screenshots/home.jpg">
-
-#### Gallery
-
-<img src="./public/screenshots/gallery.jpg">
-
-### 📱 Mobile
-
-#### Home
-
-<img src="./public/screenshots/home_mobile.jpg" style="max-width:300px">
-
-#### Gallery
-
-<img src="./public/screenshots/gallery_mobile.jpg" style="max-width:300px">
