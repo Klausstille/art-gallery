@@ -65,7 +65,7 @@ const Backdrop = styled.div`
 const BackdropGradient = styled.div`
     position: fixed;
     inset: -150px;
-    background: ${({ colors }) => `linear-gradient(170deg, ${colors})`};
+    background: ${({ colors }) => `linear-gradient(180deg, ${colors})`};
     z-index: -2;
     filter: blur(100px);
 `;
